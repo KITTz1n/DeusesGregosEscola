@@ -2,29 +2,31 @@
 
 .afrodite
 {
-    width: 100%;
+    width: 80%;
     height: 50%;
     border-radius: 10px;
-    box-shadow: #DBBCCA 0 0 .5em;
+    box-shadow: #DBBCCA 0 0 1.9em;
 }
 .galaxia
 {
-    background-color: rgb(43, 9, 63);
+    background-color: rgba(0, 0, 0, 0.692);
+    background-image: url(../imgsf/GalaxiasConjuntoBorra.png);
+    background-blend-mode: multiply;
 }
 .forma
 {
     border-radius: 10px;
     height: 825px;
-    border: 1px solid white;
 }
 .ceu
 {
-    background-color: rgba(0, 0, 0, 0.226);
-    background-image: url(../imgsf/ceu1_6.png);
-    border-radius: 10px;
-    height: 800px;
-    padding: 10px;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.349);
+    background-image: url(../imgsf/ceuemconjunto2.png);
+    border-radius: 30px;
+    padding: 70px;
     background-blend-mode: multiply;
+    box-shadow: #237bbd 0 0 1.9em;
 }
 .centro
 {
@@ -32,16 +34,23 @@
     justify-content: center;
     align-items: center;
 }
+.centro2
+{
+    text-align: center;
+}
 .h_afro
 {
-    padding: 5px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #FBEFC2;
-    font-size: 3em;
-    -webkit-text-stroke: #FEC0A8 1.5px;
+    color: #fec580;
+    text-shadow: #fffced 0 0 0.5em;
 }
 .p_afro
 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #FEC0A8;
+    color: #fec580;
+}
+.credito
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
 }
