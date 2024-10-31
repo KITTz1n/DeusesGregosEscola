@@ -1,0 +1,24 @@
+.zeus
+{
+    width: 80%;
+    height: 50%;
+    border-radius: 5px;
+    box-shadow: #755A6F 0 0 1.9em;
+    opacity: 60%;
+    transition: opacity 0.9s ease;
+}
+.zeus:hover
+{
+    opacity: 100%;
+}
+.h_zeus
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #335179;
+    text-shadow: #FFFCF7 0 0 0.5em;
+}
+.p_zeus
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #335179;
+}

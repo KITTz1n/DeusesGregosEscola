@@ -1,12 +1,5 @@
 @charset "UTF-8";
 
-.afrodite
-{
-    width: 80%;
-    height: 50%;
-    border-radius: 10px;
-    box-shadow: #DBBCCA 0 0 1.9em;
-}
 .galaxia
 {
     background-color: rgba(0, 0, 0, 0.692);
@@ -38,19 +31,38 @@
 {
     text-align: center;
 }
-.h_afro
-{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #fec580;
-    text-shadow: #fffced 0 0 0.5em;
-}
-.p_afro
-{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #fec580;
-}
 .credito
 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
+}
+.botao
+{
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+.setar
+{
+    width: 35px;
+    height: 35px;
+    background-image: url(../imgsf/ArrR.png);
+    background-size: cover;
+    transition: filter 0.5s ease;
+}
+.setal
+{
+    width: 35px;
+    height: 35px;
+    background-image: url(../imgsf/ArrL.png);
+    background-size: cover;
+    transition: filter 0.5s ease;
+}
+.setar:hover
+{
+    filter: brightness(80%);
+}
+.setal:hover
+{
+    filter: brightness(80%);
 }
