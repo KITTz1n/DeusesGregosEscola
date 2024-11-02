@@ -1,0 +1,24 @@
+.poseidon
+{
+    width: 80%;
+    height: 50%;
+    border-radius: 5px;
+    box-shadow: #142b40 0 0 1.9em;
+    opacity: 60%;
+    transition: opacity 0.9s ease;
+}
+.poseidon:hover
+{
+    opacity: 100%;
+}
+.h_pose
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #e0c690;
+    text-shadow: #fae9b4 0 0 0.5em;
+}
+.p_pose
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #e0c690;
+}
