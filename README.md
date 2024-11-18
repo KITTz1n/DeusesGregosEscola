@@ -5,6 +5,6 @@
 <br>
 <img src="https://github.com/user-attachments/assets/a37309bc-6baa-40e3-8469-7ce3ebe80cc0" alt="QRcode" width="25%" height="25%">
 <br>
-<a href="https://kittz1n.github.io/DeusesGregosEscola/deuses/zeus.html" alt="paginaNova" rel="external" target="_blank">Link aqui</a>
+<a href="https://kittz1n.github.io/DeusesGregosEscola/deuses/mito_grega.html" alt="paginaNova" rel="external" target="_blank">Link aqui</a>
 <br>
 <strong>Site com layout responsivo ao dispositivo<strong>
