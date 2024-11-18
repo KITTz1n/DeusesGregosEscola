@@ -36,6 +36,14 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
 }
+a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
 .botao
 {
     border: none;
@@ -65,4 +73,33 @@
 .setal:hover
 {
     filter: brightness(80%);
+}
+.h_all
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fcefdd;
+    text-shadow: #ffffff 0 0 0.5em;
+}
+.p_all
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #50107a;
+}
+.d_all
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fcefdd;
+}
+.imagem
+{
+    width: 75%;
+    height: 50%;
+    border-radius: 15px;
+    box-shadow: #ffffff 0 0 1.9em;
+    opacity: 60%;
+    transition: opacity 0.9s ease;
+}
+.imagem:hover
+{
+    opacity: 100%;
 }
