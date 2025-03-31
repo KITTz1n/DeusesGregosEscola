@@ -1,10 +1,23 @@
-# Deuses Gregos
- 
-<p>Site onde explica mais sobre a historias dos 12 deuses gregos.</p>
-<img src="https://github.com/user-attachments/assets/267f57d9-a97f-46bf-b144-7b54630a29ff" alt="amostra" width="50%" height="50%">
-<br>
-<img src="https://github.com/user-attachments/assets/481bf794-6168-41d3-b7e1-c0d29adeeb4b" alt="QRcode" width="25%" height="25%">
-<br>
-<a href="https://kittz1n.github.io/DeusesGregosEscola/deuses/mito_grega.html" alt="paginaNova" rel="external" target="_blank">Link aqui</a>
-<br>
-<strong>Site com layout responsivo ao dispositivo<strong>
+# 📜 Deuses Gregos
+
+Este site apresenta informações detalhadas sobre os **12 deuses gregos** da mitologia, suas histórias e significados. Além disso, há páginas extras com créditos e explicações complementares.
+
+## 🌍 Acesse o Site
+🔗 [Clique aqui para acessar](https://kittz1n.github.io/DeusesGregosEscola/deuses/mito_grega.html)
+
+## 📸 Preview do Projeto
+
+![Amostra](https://github.com/user-attachments/assets/267f57d9-a97f-46bf-b144-7b54630a29ff)
+
+📱 **QR Code para acesso rápido**:
+
+![QR Code](https://github.com/user-attachments/assets/481bf794-6168-41d3-b7e1-c0d29adeeb4b)
+
+## 🖥️ Sobre o Site
+✔️ Contém **15 páginas**, sendo:
+   - 🏛️ **12 páginas** detalhando cada um dos deuses gregos
+   - 📄 **3 páginas** com créditos e informações adicionais
+
+✔️ **Design responsivo**, adaptando-se a diferentes dispositivos para melhor experiência de leitura.
+
+Se tiver sugestões ou feedbacks, sinta-se à vontade para contribuir! 🎭⚡
